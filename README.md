@@ -13,11 +13,11 @@ A Python-based video utility that reverses one or more videos frame by frame. Us
 - 🗂️ Output video files saved in `reversed_videos/`.
 - 🗂️ Extracted frames saved in `extracted_frames/`.
 
-[https://youtu.be/MuEo06nxnBU](https://youtu.be/MuEo06nxnBU)
+[https://img.youtube.com/vi/MuEo06nxnBU/maxresdefault.jpg](https://youtu.be/MuEo06nxnBU)
 
-[https://youtu.be/MuEo06nxnBU](https://youtu.be/M1lhnVqsVqo)
+[https://img.youtube.com/vi/MuEo06nxnBU/maxresdefault.jpg](https://youtu.be/M1lhnVqsVqo)
 
-[https://youtu.be/cCmkSdizXeg](https://youtu.be/cCmkSdizXeg)
+[https://img.youtube.com/vi/cCmkSdizXeg/maxresdefault.jpg](https://youtu.be/cCmkSdizXeg)
 
 ---
 
